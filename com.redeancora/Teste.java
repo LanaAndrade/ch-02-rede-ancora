@@ -9,7 +9,7 @@ import integracao.OficinaDAO;
 import integracao.ProdutoDAO;
 import modelos.*;
 
-public class Main {
+public class Teste {
     public static void main(String[] args) {
     	
         try (Connection conn = Conexao.obterConexao()) {
